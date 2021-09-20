@@ -1,0 +1,2 @@
+# Mehatronika
+Zondes mehāniskie aspekti
